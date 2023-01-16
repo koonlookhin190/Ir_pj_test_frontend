@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_naruto</name>
+   <tag></tag>
+   <elementGuidId>1eac7263-d8e8-44ff-a5f4-02dd65eb5a15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/a/div/a/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.flex.text-white.font-bold.mt-5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>94a52ab0-f55d-41ef-8e64-01349cdac3c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex text-white font-bold mt-5</value>
+      <webElementGuid>73806724-3816-487c-a0dd-fa9ae24cfe1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>naruto</value>
+      <webElementGuid>91918eca-ff7a-45cc-a617-2b590c1df42a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;pt-10 pb-10 bg-blue-500&quot;]/div[@class=&quot;grid grid-cols-4 gap-4&quot;]/a[1]/div[@class=&quot;flex items-center justify-center&quot;]/a[@class=&quot;w-80 hover:bg-gray-800 delay-50 duration-100 bg-gray-700 p-5 rounded-lg w-100 group&quot;]/h3[@class=&quot;flex text-white font-bold mt-5&quot;]</value>
+      <webElementGuid>c11d4b0f-8d4c-471f-901d-bd5426872da9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/a/div/a/h3</value>
+      <webElementGuid>2567b42c-776d-4832-b160-8b301c122a6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::h3[1]</value>
+      <webElementGuid>a3c19ffc-4278-4cff-a230-8c5089092a20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[1]/following::h3[1]</value>
+      <webElementGuid>548483b1-0774-489e-9f1f-4c20a646efe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='naruto road of naruto'])[1]/preceding::h3[1]</value>
+      <webElementGuid>2e666f55-670e-4239-ad6c-7c7decfe960c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='naruto shippuuden'])[1]/preceding::h3[2]</value>
+      <webElementGuid>448fea48-7177-4327-a4d9-330c3ab635a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='naruto']/parent::*</value>
+      <webElementGuid>16c3371f-700b-4946-86d8-2deda03c0b3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>f308059a-9aa6-4559-812d-9a30564281e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'naruto' or . = 'naruto')]</value>
+      <webElementGuid>af719a9a-b01c-4260-bb50-6a10004e9171</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

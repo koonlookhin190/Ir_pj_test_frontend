@@ -21,14 +21,17 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:8080/login')
 
-WebUI.setText(findTestObject('Object Repository/DELETE BOOKMARK/Page_ir_pj_fontend/input_Login To ANIME-W_username'), 'koonlookhin')
+WebUI.setText(findTestObject('Object Repository/DELETE BOOKMARK/Page_ir_pj_fontend/Page_ir_pj_fontend/input_Login To ANIME-W_username'), 
+    'koonlookhin')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/DELETE BOOKMARK/Page_ir_pj_fontend/input_Username_password'), 'aeHFOx8jV/A=')
+WebUI.setEncryptedText(findTestObject('Object Repository/DELETE BOOKMARK/Page_ir_pj_fontend/Page_ir_pj_fontend/input_Username_password'), 
+    'aeHFOx8jV/A=')
 
-WebUI.sendKeys(findTestObject('Object Repository/DELETE BOOKMARK/Page_ir_pj_fontend/input_Username_password'), Keys.chord(
-        Keys.ENTER))
+WebUI.click(findTestObject('Object Repository/DELETE BOOKMARK/Page_ir_pj_fontend/Page_ir_pj_fontend/button_Submit'))
 
-WebUI.click(findTestObject('Object Repository/DELETE BOOKMARK/Page_ir_pj_fontend/button_Bookmark'))
+WebUI.click(findTestObject('Object Repository/DELETE BOOKMARK/Page_ir_pj_fontend/Page_ir_pj_fontend/button_Bookmark'))
 
-WebUI.click(findTestObject('Object Repository/DELETE BOOKMARK/Page_ir_pj_fontend/button_Delete'))
+WebUI.click(findTestObject('Object Repository/DELETE BOOKMARK/Page_ir_pj_fontend/Page_ir_pj_fontend/button_Delete'))
+
+WebUI.closeBrowser()
 

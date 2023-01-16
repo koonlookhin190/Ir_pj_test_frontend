@@ -21,31 +21,23 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:8080/login')
 
-WebUI.setText(findTestObject('Object Repository/SEARCH BY TITLE/Page_ir_pj_fontend/input_Login To ANIME-W_username'), 'koonlookhin')
+WebUI.setText(findTestObject('Object Repository/SEARCH BY TITLE/Page_ir_pj_fontend/Page_ir_pj_fontend/input_Login To ANIME-W_username'), 
+    'koonlookhin')
 
-WebUI.click(findTestObject('Object Repository/SEARCH BY TITLE/Page_ir_pj_fontend/label_Password'))
+WebUI.setEncryptedText(findTestObject('Object Repository/SEARCH BY TITLE/Page_ir_pj_fontend/Page_ir_pj_fontend/input_Username_password'), 
+    'aeHFOx8jV/A=')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/SEARCH BY TITLE/Page_ir_pj_fontend/input_Username_password'), 'MKsyMw//mPnhSW0oO9apCcK7/ppdwbjc')
+WebUI.click(findTestObject('Object Repository/SEARCH BY TITLE/Page_ir_pj_fontend/Page_ir_pj_fontend/button_Submit'))
 
-WebUI.sendKeys(findTestObject('Object Repository/SEARCH BY TITLE/Page_ir_pj_fontend/input_Username_password'), Keys.chord(
-        Keys.ENTER))
+WebUI.click(findTestObject('Object Repository/SEARCH BY TITLE/Page_ir_pj_fontend/Page_ir_pj_fontend/li_Selected search'))
 
-WebUI.click(findTestObject('Object Repository/SEARCH BY TITLE/Page_ir_pj_fontend/div_Login To ANIME-WUsernamePassword Submit'))
+WebUI.click(findTestObject('Object Repository/SEARCH BY TITLE/Page_ir_pj_fontend/Page_ir_pj_fontend/a_Title'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/SEARCH BY TITLE/Page_ir_pj_fontend/input_Username_password'), 'aeHFOx8jV/A=')
+WebUI.setText(findTestObject('Object Repository/SEARCH BY TITLE/Page_ir_pj_fontend/Page_ir_pj_fontend/input_Title_input'), 
+    'naruto')
 
-WebUI.sendKeys(findTestObject('Object Repository/SEARCH BY TITLE/Page_ir_pj_fontend/input_Username_password'), Keys.chord(
-        Keys.ENTER))
+WebUI.sendKeys(findTestObject('Object Repository/SEARCH BY TITLE/Page_ir_pj_fontend/Page_ir_pj_fontend/input_Title_input'), 
+    Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/SEARCH BY TITLE/Page_ir_pj_fontend/li_Selected search'))
-
-WebUI.click(findTestObject('Object Repository/SEARCH BY TITLE/Page_ir_pj_fontend/a_Title'))
-
-WebUI.setText(findTestObject('Object Repository/SEARCH BY TITLE/Page_ir_pj_fontend/input_Title_input'), 'naruto')
-
-WebUI.sendKeys(findTestObject('Object Repository/SEARCH BY TITLE/Page_ir_pj_fontend/input_Title_input'), Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Object Repository/SEARCH BY TITLE/Page_ir_pj_fontend/h3_naruto'))
-
-WebUI.click(findTestObject('Object Repository/SEARCH BY TITLE/Page_ir_pj_fontend/p_naruto'))
+WebUI.click(findTestObject('Object Repository/SEARCH BY TITLE/Page_ir_pj_fontend/Page_ir_pj_fontend/h3_naruto'))
 
