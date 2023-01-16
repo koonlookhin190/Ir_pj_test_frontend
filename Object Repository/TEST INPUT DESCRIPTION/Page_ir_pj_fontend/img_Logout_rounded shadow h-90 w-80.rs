@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Logout_rounded shadow h-90 w-80</name>
+   <tag></tag>
+   <elementGuidId>509de577-2dcf-42fa-9305-37b4ec4a2bb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.rounded.shadow.h-90.w-80</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/a/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5ac294f7-d35a-4c91-8b91-880e69809e20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn.myanimelist.net/images/anime/13/17405.jpg</value>
+      <webElementGuid>97c18317-6ffb-4daa-b5a9-71c9d33c6e77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded shadow h-90 w-80</value>
+      <webElementGuid>afe64cfd-7b8f-4a7e-a9c1-71ef5c97c518</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;pt-10 pb-10 bg-blue-500&quot;]/div[@class=&quot;grid grid-cols-4 gap-4&quot;]/a[1]/div[@class=&quot;flex items-center justify-center&quot;]/a[@class=&quot;w-80 hover:bg-gray-800 delay-50 duration-100 bg-gray-700 p-5 rounded-lg w-100 group&quot;]/img[@class=&quot;rounded shadow h-90 w-80&quot;]</value>
+      <webElementGuid>b5bd7a8e-331d-4da0-87d4-4ce7623b589b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/a/div/a/img</value>
+      <webElementGuid>07e8871b-a81b-4678-8f92-7d112839acda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://cdn.myanimelist.net/images/anime/13/17405.jpg')]</value>
+      <webElementGuid>b81dd9c3-4c3e-4970-b3ec-14ee6d770751</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/img</value>
+      <webElementGuid>2420a5b9-6a55-4519-b9cf-fe1c03b23d19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cdn.myanimelist.net/images/anime/13/17405.jpg']</value>
+      <webElementGuid>e3eb493f-5b9b-4350-b7de-e57b022c3e87</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

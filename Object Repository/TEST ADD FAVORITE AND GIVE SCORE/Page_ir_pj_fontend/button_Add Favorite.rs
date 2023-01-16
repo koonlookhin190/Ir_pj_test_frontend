@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Favorite</name>
+   <tag></tag>
+   <elementGuidId>f83e3cf2-0c57-4dcd-9496-28d8f06a3816</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.bg-blue-500.text-white.rounded-md.px-2.py-1.m-auto</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>78842e50-b80b-4f5b-aa13-1b42555a029f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-blue-500 text-white rounded-md px-2 py-1 m-auto</value>
+      <webElementGuid>7b84c995-63cc-4f70-8d01-1242fe1c680e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add Favorite </value>
+      <webElementGuid>567b1684-5d5d-4733-8286-00fd60730ca0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;dark:bg-gray-800 dark:text-gray-50&quot;]/div[@class=&quot;container grid grid-cols-12 mx-auto&quot;]/div[@class=&quot;flex flex-col col-span-12 p-6 divide-y lg:col-span-6 lg:p-10 divide-gray-700&quot;]/button[@class=&quot;bg-blue-500 text-white rounded-md px-2 py-1 m-auto&quot;]</value>
+      <webElementGuid>5efe6083-30b1-4b1b-9a47-df4a600e8540</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>14be6e43-0c6e-47ef-b378-f8acc92325f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Studio:'])[1]/following::button[1]</value>
+      <webElementGuid>71076b69-eb89-42c8-80b6-c7fef8775d64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Genres'])[1]/following::button[1]</value>
+      <webElementGuid>2fd691d9-52e3-4fae-b60d-bdeb278cee28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Favorite']/parent::*</value>
+      <webElementGuid>d9175989-b3d6-49c0-9dca-61ef52aec73b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>fe34677d-986c-43a1-9460-51fe1d1df152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Add Favorite ' or . = ' Add Favorite ')]</value>
+      <webElementGuid>ed776ed5-2aa9-4fa0-b19e-f34f712b1fa0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

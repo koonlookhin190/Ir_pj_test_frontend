@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_narutoYou give a score 1 Delete</name>
+   <tag></tag>
+   <elementGuidId>83a387b7-e987-41c2-98f7-89b10f260967</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>49dd36aa-14e2-4da3-bf41-4fafa7e2a3d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center justify-center</value>
+      <webElementGuid>7cdebc1d-9ade-414d-af32-27193a1c9952</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>narutoYou give a score 1 Delete </value>
+      <webElementGuid>5961a115-21e9-4271-ad8c-ad7aaf918fb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;grid grid-cols-3 gap-3&quot;]/div[@class=&quot;flex items-center justify-center&quot;]</value>
+      <webElementGuid>2a34565d-a103-4ca7-bc79-86b8b130ae7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[4]</value>
+      <webElementGuid>1560a96c-bfdb-4fd1-8cbd-7ee252a5f909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[3]/following::div[1]</value>
+      <webElementGuid>aa46654a-b5d0-4cb7-a7a8-a87c91f9113a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='road of naruto'])[1]/following::div[4]</value>
+      <webElementGuid>f0e44053-11c2-46af-8d93-29d7b226cf80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[4]</value>
+      <webElementGuid>494d14a0-bc64-4736-bd64-a26da917e1e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'narutoYou give a score 1 Delete ' or . = 'narutoYou give a score 1 Delete ')]</value>
+      <webElementGuid>ea7486e9-6423-4e3d-bdc0-9d4ef334032b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

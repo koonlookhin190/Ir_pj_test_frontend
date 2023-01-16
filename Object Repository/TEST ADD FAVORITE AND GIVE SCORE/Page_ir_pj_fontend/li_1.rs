@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_1</name>
+   <tag></tag>
+   <elementGuidId>a7dd9b9b-0a8f-4471-965a-df78814a1f03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div[2]/div[5]/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>ef8db161-a69b-4a11-a1c0-fbb64aad79dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-toggle</value>
+      <webElementGuid>355a7fd9-2484-4d3f-9061-88d328e218ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 </value>
+      <webElementGuid>355171fa-1160-4703-8d14-89a53593aaf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;dark:bg-gray-800 dark:text-gray-50&quot;]/div[@class=&quot;container grid grid-cols-12 mx-auto&quot;]/div[@class=&quot;flex flex-col col-span-12 p-6 divide-y lg:col-span-6 lg:p-10 divide-gray-700&quot;]/div[@class=&quot;btn-group&quot;]/li[@class=&quot;dropdown-toggle&quot;]</value>
+      <webElementGuid>333b9352-cb6f-426d-90c3-00a0638334eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div[2]/div[5]/li</value>
+      <webElementGuid>c927a711-9eef-4e9e-b0aa-3b68d2154246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Studio:'])[1]/following::li[1]</value>
+      <webElementGuid>793a3449-612e-4d66-becb-e3ca5e3ad6f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Genres'])[1]/following::li[1]</value>
+      <webElementGuid>b7a60e97-9964-4065-8b02-8b8d806ec416</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Favorite'])[1]/preceding::li[1]</value>
+      <webElementGuid>5910e6bc-7d05-40c8-b0ac-685709009f6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1']/parent::*</value>
+      <webElementGuid>99402678-a5bf-4940-ad34-7f9d959a9108</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/li</value>
+      <webElementGuid>dfb1810e-78da-4e4c-8fb3-8be2c6f5aa8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '1 ' or . = '1 ')]</value>
+      <webElementGuid>79e474d3-3fcd-4a8b-a63b-6bf82bf488dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

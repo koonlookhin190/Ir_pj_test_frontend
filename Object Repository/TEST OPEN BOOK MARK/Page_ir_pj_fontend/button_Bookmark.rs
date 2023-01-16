@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Bookmark</name>
+   <tag></tag>
+   <elementGuidId>5340b282-ab38-47ff-a34e-23482851f2db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/nav/div[2]/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9e852fd9-2c64-4e8a-931c-7a1db9aa28c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block mt-4 lg:inline-block lg:mt-0 hover:text-white px-4 py-2 rounded hover:bg-blue-700 mrs-2</value>
+      <webElementGuid>8f7c9dd2-6937-4b54-a326-bceaab3bbccc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Bookmark </value>
+      <webElementGuid>213e5949-2b96-4aad-b830-418fff6504d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/nav[@class=&quot;flex items-center justify-between flex-wrap py-4 lg:px-12 shadow border-solid border-t-2 border-blue-700&quot;]/div[@class=&quot;menu w-full lg:block flex-grow lg:flex lg:items-center lg:w-auto lg:px-3 px-8&quot;]/div[@class=&quot;text-md font-bold text-blue-700 lg:flex-grow&quot;]/button[@class=&quot;block mt-4 lg:inline-block lg:mt-0 hover:text-white px-4 py-2 rounded hover:bg-blue-700 mrs-2&quot;]</value>
+      <webElementGuid>19d5441e-f116-444c-b09b-0749a55ff2cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/nav/div[2]/div/button[2]</value>
+      <webElementGuid>289b815b-bc5f-46dc-ac08-a85ab71fb019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anime'])[1]/following::button[1]</value>
+      <webElementGuid>7768f9cd-4dd6-4d7a-8571-952adb80bfa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selected search'])[1]/preceding::button[1]</value>
+      <webElementGuid>6ebad7fb-f9ee-4f6f-9784-e52b938253f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::button[2]</value>
+      <webElementGuid>e2412ba6-5e24-4048-ac95-32fea99c7944</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bookmark']/parent::*</value>
+      <webElementGuid>d5a9cf44-1cde-489e-8c27-3213729aedac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>bd83390f-53bf-42f7-a27c-85fb3a01d1f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Bookmark ' or . = ' Bookmark ')]</value>
+      <webElementGuid>ea9a3a46-a625-4b7b-a5b2-89a5a7c06239</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

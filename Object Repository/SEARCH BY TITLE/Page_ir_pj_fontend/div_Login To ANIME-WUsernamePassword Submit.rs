@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Login To ANIME-WUsernamePassword Submit</name>
+   <tag></tag>
+   <elementGuidId>de8b2071-4c3f-4698-8a09-648b90693240</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6d34b862-06f8-449a-ba8e-6c960b4f0364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>min-h-screen bg-gray-100 py-6 flex flex-col justify-center sm:py-12</value>
+      <webElementGuid>434d6678-afa3-4d11-ad7c-73fae845313d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login To ANIME-WUsernamePassword Submit </value>
+      <webElementGuid>132e3425-3e64-435b-9d6c-13e5fe4d505c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;min-h-screen bg-gray-100 py-6 flex flex-col justify-center sm:py-12&quot;]</value>
+      <webElementGuid>c5612d0b-bb75-4d78-936d-577db039a230</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div</value>
+      <webElementGuid>5f76ae59-f00b-4bdd-beb8-36530fd070f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div</value>
+      <webElementGuid>678ccf66-8a6d-49cd-826f-b95185fc20d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Login To ANIME-WUsernamePassword Submit ' or . = 'Login To ANIME-WUsernamePassword Submit ')]</value>
+      <webElementGuid>29717059-9a12-4ba7-bb08-0444758f5cb3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

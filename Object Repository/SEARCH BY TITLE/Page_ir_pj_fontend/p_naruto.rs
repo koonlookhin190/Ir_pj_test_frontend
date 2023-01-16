@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_naruto</name>
+   <tag></tag>
+   <elementGuidId>9889813c-fe22-4601-a874-39b4f0e4e3de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.pt-6.pb-4.space-y-2 > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div[2]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c902f5dc-1838-48e9-9b1c-45d45a460fa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>naruto</value>
+      <webElementGuid>ff384609-71f0-4e46-9a7e-df1ff4f01e7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;dark:bg-gray-800 dark:text-gray-50&quot;]/div[@class=&quot;container grid grid-cols-12 mx-auto&quot;]/div[@class=&quot;flex flex-col col-span-12 p-6 divide-y lg:col-span-6 lg:p-10 divide-gray-700&quot;]/div[@class=&quot;pt-6 pb-4 space-y-2&quot;]/p[1]</value>
+      <webElementGuid>5d90f57b-46be-404f-ae70-97d49e102a38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div[2]/div/p</value>
+      <webElementGuid>44ff466b-c604-4d58-b12b-40c90ce6717c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[2]/following::p[1]</value>
+      <webElementGuid>62e4844f-9e89-4181-a268-c68f9434eb54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::p[1]</value>
+      <webElementGuid>928706e4-5f69-4e50-a9f9-392ce6a6b98b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Synopsis'])[1]/preceding::p[1]</value>
+      <webElementGuid>a3554a78-2334-471f-82a7-52a8a83306d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Background'])[1]/preceding::p[2]</value>
+      <webElementGuid>8ecd3dac-d6ab-4d9a-9d60-b5f1b0c04c48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='naruto']/parent::*</value>
+      <webElementGuid>48c24270-8472-498c-b9ef-718b2e87b70d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/p</value>
+      <webElementGuid>e021f10b-75c2-4788-a319-455afddef4ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'naruto' or . = 'naruto')]</value>
+      <webElementGuid>94b6a622-96eb-4955-9ffd-cd6fd3b315b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
